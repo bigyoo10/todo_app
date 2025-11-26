@@ -46,19 +46,19 @@ Android 기기에서 앱을 바로 설치해볼 수 있습니다.
 
 | 스플래시 화면 | Add New Task |
 |--------------|-------------|
-| ![Splash](screenshots/splash screen) | ![Add Task](screenshots/add_task.png) |
+| ![Splash](screenshots/splash.jpg) | ![Add Task](screenshots/add_task.jpg) |
 
 ### 2. 알림 흐름
 
 | 시간 선택 다이얼로그 | 알림 도착(알림 센터) |
 |----------------------|----------------------|----------------------|
-| ![Time Picker](screenshots/time_picker.png) | ![Notification](screenshots/notification.png) | 
+| ![Time Picker](screenshots/time_picker.jpg) | ![Notification](screenshots/notification.jpg) | 
 
 ### 3. 설정 & 통계 화면
 
 | 설정 화면 | 통계 화면 |
 |----------|----------|
-| ![Settings](screenshots/settings.png) | ![Statistics](screenshots/statistics.png) |
+| ![Settings](screenshots/settings.jpg) | ![Statistics](screenshots/statistics.jpg) |
 
 ---
 

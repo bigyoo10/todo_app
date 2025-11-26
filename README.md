@@ -46,7 +46,7 @@ Android 기기에서 앱을 바로 설치해볼 수 있습니다.
 
 | 스플래시 화면 | Add New Task |
 |--------------|-------------|
-| ![Splash](screenshots/splash.jpg) | ![Add Task](screenshots/add_task.png) |
+| ![Splash](screenshots/splash screen) | ![Add Task](screenshots/add_task.png) |
 
 ### 2. 알림 흐름
 

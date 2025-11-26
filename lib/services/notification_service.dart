@@ -28,7 +28,7 @@ class NotificationService {
 
     tz.initializeTimeZones();
 
-    const androidInit = AndroidInitializationSettings('@mipmap/android12splash');
+    const androidInit = AndroidInitializationSettings('@drawable/android12splash');
     const darwinInit = DarwinInitializationSettings(
       requestAlertPermission: true,
       requestBadgePermission: true,

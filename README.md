@@ -9,7 +9,7 @@ Flutter로 만든 개인 포트폴리오용 TODO 앱입니다.
 
 Android 기기에서 앱을 바로 설치해볼 수 있습니다.
 
-- **APK 다운로드**: [todo_app_v1.0.0.apk](sha256:ec7e7f6c62979e639e0cb96da05bdf69c132de5f794962aaf0e8cbba38ac878c)
+- **APK 다운로드**: [todo_app_v1.0.0.apk](https://github.com/bigyoo10/todo_app/releases/download/v1.0.0/app-release.apk)
 
 
 ---
